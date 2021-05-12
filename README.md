@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @craigseitz
 - 👀 I’m interested in python and python programs
-- 🌱 I’m currently learning using Linus on a Pixelbook
+- 🌱 I’m currently learning using Linux on a Pixelbook
 - I am retired.
 
 
